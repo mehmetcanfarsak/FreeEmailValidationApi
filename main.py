@@ -15,7 +15,8 @@ description_of_fastapi = """
 ### [📝Test Now With Creating Your Alias](show-email-validation-form)
 
 ## Features and Advantages
-* Completely free and without any limtis
+* Completely free and without any limits
+* Bulk validate emails
 * Check dns settings of email's domain
 * Robust email syntax validation
 * Deliverability validation
