@@ -15,7 +15,8 @@
 
 
 ## Features and Advantages
-* Completely free and without any limtis
+* Completely free and without any limits
+* Bulk validate emails
 * Check dns settings of email's domain
 * Robust email syntax validation
 * Deliverability validation
@@ -41,3 +42,16 @@ ReDoc: [https://FreeEmailValidationApi.deta.dev/redoc](https://FreeEmailValidati
 * Form Designs are inspired by [https://github.com/burakbb/deta-example](https://github.com/burakbb/deta-example)
 
 ## Pages
+### [HomePage](https://FreeEmailValidationApi.deta.dev)
+![HomePage](static/img.png)
+
+### [Test Form](https://freeemailvalidationapi.deta.dev/show-email-validation-form) 
+
+![Test Form](static/img_1.png)
+### [Bulk Email Validate](https://freeemailvalidationapi.deta.dev/docs#/Bulk%20Validate/bulk_validate_emails_bulk_validate_emails_post)
+![Test Form](static/img_4.png)
+### Example Results
+![Example Results](static/img_2.png)
+![Example Results](static/img_3.png)
+
+
