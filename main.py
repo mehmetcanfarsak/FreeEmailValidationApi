@@ -12,7 +12,7 @@ load_dotenv()
 description_of_fastapi = """
 `` Simple, reliable and Free email validation api. Thanks to https://github.com/JoshData/python-email-validator ``  
 
-### [📝Test Now With Creating Your Alias](/validate-email?email=user@example.com)
+### [📝Test Now ](/validate-email?email=user@example.com)
 
 ## Features and Advantages
 * Completely free and without any limits
